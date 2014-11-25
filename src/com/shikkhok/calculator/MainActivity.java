@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 		etOp2 = (EditText) findViewById(R.id.etOperand2);
 		txtResult = (TextView) findViewById(R.id.tvOutput);
 		
-
+//sdhfbjsdhfjsdhb
 	}
 
 	public void add(View v) {
